@@ -16,7 +16,7 @@
     ausgegeben.
    </simpara>
    <simpara>
-    Dies ist nützlich bei Funktionen, bei denen das eine fehlende Prüfung des
+    Dies ist nützlich bei Funktionen, bei denen die fehlende Prüfung des
     Rückgabewerts wahrscheinlich ein Fehler ist.
    </simpara>
    <simpara>
